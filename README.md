@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/yanpalmer007" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/yanpalmer007" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5581995069382?text=Bem-vindo(a) ao meu WhatsApp!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
+  
   ![Snake animation](https://github.com/YanPalmer/YanPalmer/blob/output/github-contribution-grid-snake.svg)
   
 </div>
