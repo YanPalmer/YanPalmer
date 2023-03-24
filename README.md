@@ -1,5 +1,5 @@
 ### Olá, Mundo... Bem vindo ao meu perfil!<br>
-**Prazer, me chamo Yan Palmer e estou desenvolvendo aos poucos meu portfolio para que assim como você e outros usuários possam acompanhar meus desenvolvimentos.**
+**Prazer, me chamo Yan Palmer e estou desenvolvendo aos poucos meu portfolio para que você e outros usuários possam acompanhar meus desenvolvimentos.**
 ##
 
 [![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanPalmer&theme=vue-dark&show_icons=true)](https://github.com/YanPalmer/Repositorio-Profissional)<!--Status Github-->
