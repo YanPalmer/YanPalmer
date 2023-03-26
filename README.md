@@ -1,10 +1,10 @@
 ### Olá, Mundo... Bem vindo ao meu perfil!<br>
 **Prazer, me chamo Yan Palmer e estou desenvolvendo aos poucos meu portfolio para que você e outros usuários possam acompanhar meus desenvolvimentos.**
 ##
-<div style="height: 500px">
+<div style="height: 500px; display: inline-block">
   <a href="https://github.com/YanPalmer">
-  <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=YanPalmer&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanPalmer&layout=compact&langs_count=7&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YanPalmer&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanPalmer&layout=compact&langs_count=7&theme=vue-dark" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanPalmer&layout=compact&theme=vue-dark"> <!-- Linguagens Github-->
 </div>
 
